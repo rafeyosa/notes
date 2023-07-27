@@ -5,6 +5,7 @@ See how a minor change to your commit message style can make you a better progra
 Format: `<type>(<scope>): <ticket> <subject>`
 
 `<scope>` is optional
+	
 `<ticket>` is optional
 
 ## Example
